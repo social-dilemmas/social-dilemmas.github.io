@@ -1,15 +1,17 @@
-# Nerfies
+# Mitigating Generative Agent Social Dilemmas
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the [Mitigating Generative Agent Social Dilemmas website](https://nerfies.github.io).
 
-If you find Nerfies useful for your work please cite:
+If you find our research useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
-}
+@inproceedings{
+      yocum2023mitigating,
+      title={Mitigating Generative Agent Social Dilemmas},
+      author={Julian Yocum and Phillip Christoffersen and Mehul Damani and Justin Svegliato and Dylan Hadfield-Menell and Stuart Russell},
+      booktitle={NeurIPS 2023 Foundation Models for Decision Making Workshop},
+      year={2023},
+      url={https://openreview.net/forum?id=5TIdOk7XQ6}
+      }
 ```
 
 # Website License
