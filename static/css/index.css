@@ -2,9 +2,22 @@ body {
   font-family: 'Noto Sans', sans-serif;
 }
 
-.terminal-font {
+.contract-font {
   font-family: 'Courier New', Courier, monospace; /* Terminal font */
   font-size: 0.875em; /* Smaller font size, adjust as needed */
+  color: black;
+}
+
+.gizmo-font {
+  font-family: 'Courier New', Courier, monospace; /* Terminal font */
+  font-size: 0.95em; /* Smaller font size, adjust as needed */
+  color: rgb(67, 161, 255);
+}
+
+.glitch-font {
+  font-family: 'Courier New', Courier, monospace; /* Terminal font */
+  font-size: 0.95em; /* Smaller font size, adjust as needed */
+  color: rgb(32, 189, 32);
 }
 
 .footer .icon-link {
