@@ -20,6 +20,13 @@ body {
   color: rgb(32, 189, 32);
 }
 
+.bio-image {
+  width: 200px; /* Adjust the size as needed */
+  height: 200px; /* Adjust the size as needed */
+  border-radius: 20%; /* Makes the image circular */
+  object-fit: cover; /* Ensures the image covers the area */
+}
+
 .circle-image {
   width: 125px; /* Adjust the size as needed */
   height: 125px; /* Adjust the size as needed */
