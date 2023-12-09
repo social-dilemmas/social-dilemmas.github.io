@@ -2,6 +2,10 @@ body {
   font-family: 'Noto Sans', sans-serif;
 }
 
+.terminal-font {
+  font-family: 'Courier New', Courier, monospace; /* Terminal font */
+  font-size: 0.875em; /* Smaller font size, adjust as needed */
+}
 
 .footer .icon-link {
     font-size: 25px;
