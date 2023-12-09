@@ -20,6 +20,13 @@ body {
   color: rgb(32, 189, 32);
 }
 
+.circle-image {
+  width: 100px; /* Adjust the size as needed */
+  height: 100px; /* Adjust the size as needed */
+  border-radius: 50%; /* Makes the image circular */
+  object-fit: cover; /* Ensures the image covers the area */
+}
+
 .footer .icon-link {
     font-size: 25px;
     color: #000;
